@@ -1,4 +1,5 @@
-# zuan
+# Description
+项目参考自录播课程。还没有完整完成整个项目，后续继续更新...
 
 ## Project setup
 ```
